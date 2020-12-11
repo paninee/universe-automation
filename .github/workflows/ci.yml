@@ -6,7 +6,7 @@
 
 # This workflow will run CI on your codebase, label your PR, and comment on the result
 
-name: MYWORKFLOW
+name: PANTESTWORKFLOW
 
 on:
   pull_request: # the workflow will trigger on every pull request event
